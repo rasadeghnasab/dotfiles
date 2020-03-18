@@ -57,7 +57,7 @@ Plugin 'tpope/vim-bundler'
 Plugin 'jceb/vim-orgmode'
 Plugin 'davidhalter/jedi-vim'
 Plugin 'junegunn/limelight.vim'
-Plugin 'rust-lang/rust.vim' 
+Plugin 'rust-lang/rust.vim'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
