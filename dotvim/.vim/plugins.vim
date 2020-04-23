@@ -58,6 +58,7 @@ Plugin 'jceb/vim-orgmode'
 Plugin 'davidhalter/jedi-vim'
 Plugin 'junegunn/limelight.vim'
 Plugin 'rust-lang/rust.vim'
+Plugin 'tomlion/vim-solidity'                   "Vim syntax file for solidity
 
 call vundle#end()            " required
 filetype plugin indent on    " required
